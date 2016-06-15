@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+
+	<sim>
+		<model>
+			<livery>
+				<name>PIA 1980's Livery</name>
+				<texture>Liveries/DC-10-30/AP-AXE.png</texture>
+				<registration>F-GTDI</registration>
+				<has-center-gear type="bool">true</has-center-gear>
+			</livery>
+		</model>
+	</sim>
+
+</PropertyList>
