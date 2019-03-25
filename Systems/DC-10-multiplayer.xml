@@ -160,6 +160,38 @@
 		<index type="int">19</index>
 		<property>sim/model/door-positions/boom/position-norm</property>
 	</reference>
+        <!-- flaps -->
+	<reference>
+		<type>float</type>
+		<index type="int">20</index>
+		<property>surface-positions/flap-inner-pos-norm</property>
+	</reference>
+	<reference>
+		<type>float</type>
+		<index type="int">21</index>
+		<property>surface-positions/flap-outer-pos-norm</property>
+	</reference>
+        <!-- ailerons -->
+	<reference>
+		<type>float</type>
+		<index type="int">22</index>
+		<property>surface-positions/left-aileron-inner-pos-norm</property>
+	</reference>
+	<reference>
+		<type>float</type>
+		<index type="int">23</index>
+		<property>surface-positions/left-aileron-outer-pos-norm</property>
+	</reference>
+	<reference>
+		<type>float</type>
+		<index type="int">24</index>
+		<property>surface-positions/right-aileron-inner-pos-norm</property>
+	</reference>
+	<reference>
+		<type>float</type>
+		<index type="int">25</index>
+		<property>surface-positions/right-aileron-outer-pos-norm</property>
+	</reference>
 
 	<!-- Strings -->
 	<reference> <!-- Configuration for DC-10-30CF -->
