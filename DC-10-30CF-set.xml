@@ -11,6 +11,17 @@
 		<aero>DC-10-30</aero>
 		<variant-of>DC-10-30</variant-of>
 
+		<tags>
+		      <tag>transport</tag>
+		      <tag>mc-donnell-douglas</tag>
+		      <tag>1970s</tag>
+		      <tag>1980s</tag>
+		      <tag>1990s</tag>
+		      <tag>jet</tag>
+		      <tag>ifr</tag>
+		      <tag>retractable-gear</tag>
+		</tags>
+
 		<model>
 			<path>Aircraft/DC-10-30/Models/DC-10-30CF.xml</path>
 			<configuration type="string">pax</configuration>
